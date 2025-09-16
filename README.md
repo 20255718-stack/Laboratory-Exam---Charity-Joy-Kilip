@@ -61,3 +61,52 @@
     </footer>
 
 </html>
+
+<!DOCTYPE html>
+<html>
+    <center>
+    <title>Laboratory Exam - Charity Joy Kilip</title>
+    <img src="profilep.jpg" width="12%" height="12%">
+    <h1>Charity Joy Kilip</h1>
+    <h2>BSIT-1</h2>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="index.html">About</a>
+        <a href="#projects.html"">Project</a>
+    </nav>
+    </center>
+    <br>
+    <br>
+
+    <h1 id="projects.html">My Projects</h1>
+    <h2>Web Development Project</h2>
+    <p1>
+     <ul>
+        <li type="disc"><b>Project 1: Personal Portfolio</b> - A simple HTML page schowcasing my skills and interests.</li>
+        <li type="disc"><b>Project 2: Responsive Photo Gallery</b> - A project using CSS for a grid layout that adapts to different screen sizes.</li>
+        <li type="disc"><b>Project 3: Interacttive-To-Do List</b> - A small application buuilt with JavaScript to manage daily taks.</li>
+    </p1>
+
+    <h2>Web Development Project</h2>
+    <p2>
+     <ul>
+        <li type="disc"><b>Logo Design Collection</b> - A series of logos created for different fictional brands.</li>
+        <li type="disc"><b>Project 2: Responsive Photo Gallery</b> - A collection of digital paintings and sketches.</li>
+    </p2>
+    <br>
+    <br>
+
+    <footer><center>
+        <p>
+            <b>Contact me:</b><a href="gmail.com">20255718@s.ubaguio.edu</a>
+            <b>Phone:</b> +630995492564
+            <br>
+            <b>Connect with me:</b><a href="facebook.com">Facebook</a>&nbsp;&nbsp;<a href="github.com">GitHub</a>&nbsp;&nbsp;<a href="twitter.com">Twitter</a>
+            <br>
+            &copy;2025. All rights reserved.
+        </p>
+        </center>
+    </footer>
+
+</html>
